@@ -1,3 +1,3 @@
 package modC
 
-var C = "c"
+var C = "c0.2.0"
